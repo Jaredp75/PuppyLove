@@ -1,0 +1,91 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 50px;
+  line-height: 40px;
+}
+
+header {
+  background-color: #ff8523;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+nav a {
+  border: 1px solid white;
+  color: white;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h2 {
+  color: #1fabe5;
+}
+
+h3 {
+  color: #1fabe5;
+}
+
+ul, li {
+  padding: 1px;
+  font-style: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, thead, tr, td {
+  border: 1px solid #1fabe5;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 1 px;
+}
+
+thead {
+  background-color: #1fabe5;
+  color: white;
+}
+
+.name {
+  background-color: #ff8523;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#textarea {
+  width: 100%;
+}
+
+#submit_button {
+  background-color: #1fabe5;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+}
